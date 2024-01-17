@@ -3,6 +3,9 @@
 Flutter Number Guess App:
 https://github.com/companyakis/flutter-number-guess-app
 
+Flutter Snackbar User Info Beginner Project:
+https://github.com/companyakis/flutter-snackbar-userinfo-project
+
 Flutter Data Transfer Among Pages Beginner Project:
 https://github.com/companyakis/flutter-data-transfer-among-pages
 
