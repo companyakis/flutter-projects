@@ -1,5 +1,8 @@
 # Flutter Projects
 
+Flutter Body Mass Index Beginner Project:
+https://github.com/companyakis/flutter-body-mass-index
+
 Flutter Number Guess App:
 https://github.com/companyakis/flutter-number-guess-app
 
