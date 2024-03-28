@@ -3,6 +3,9 @@
 Flutter Body Mass Index Beginner Project:
 https://github.com/companyakis/flutter-body-mass-index
 
+How Many Times We've Opened Our Flutter App?
+https://github.com/companyakis/flutter-shared-preferences-app-opening-counter
+
 Flutter Number Guess App:
 https://github.com/companyakis/flutter-number-guess-app
 
